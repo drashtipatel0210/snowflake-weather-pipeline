@@ -1,0 +1,17 @@
+# Snowflake credentials
+.env
+
+# Python environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+weather_log.txt
+
+# VS Code
+.vscode/
